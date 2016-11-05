@@ -1,0 +1,5 @@
+package: github.com/igvaquero18/protobuf-tutorial
+import:
+- package: github.com/golang/protobuf
+  subpackages:
+  - proto
